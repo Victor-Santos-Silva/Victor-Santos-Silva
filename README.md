@@ -1,6 +1,12 @@
 ## Olá!! Eu sou Victor dos Santos !! 👋
 ### Sou Desenvolvedor de Software Junior Full Stack.
 
+- :two_hearts: Desenvolvimento de Sistemas - Técnico
+- :astronaut: Cyber Security - FIAP
+- :star2: Atuo com DevOps && Node
+- :computer: Desenvolvedor Back-end
+- :boom: Java | JavaScript | Node | React
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Victor-Santos-Silva)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-dos-santos-da-silva/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victorsgk/?hl=pt)
@@ -9,8 +15,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Santos-Silva&layout=compact&theme=dracula)
 
-### Tecnologias que uso no meu dia a dia
-
+### Tecnologias que uso:
 
 <div style= "display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
