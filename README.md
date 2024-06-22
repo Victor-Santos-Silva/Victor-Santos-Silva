@@ -6,6 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victorsgk/?hl=pt)
 
 ![Victor-Santos-Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Santos-Silva&show_icons=true&theme=dracula)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Santos-Silva&layout=compact&theme=dracula)
 
 ### Tecnologias que uso no meu dia a dia
