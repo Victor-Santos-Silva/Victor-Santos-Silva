@@ -1,21 +1,15 @@
-# Olá!! Eu sou Victor dos Santos !! 👋
+## Olá!! Eu sou Victor dos Santos !! 👋
+### Sou Desenvolvedor de Software Junior Full Stack.
 
-Sou Desenvolvedor de Software Junior Full Stack.
-
-<!-- Redes Sociais -->
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Victor-Santos-Silva)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-dos-santos-da-silva/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victorsgk/?hl=pt)
 
-<!-- Graficos -->
-<div style= "display: inline_block">
-<img align="right" width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Santos-Silva&layout=compact&theme=dracula">
+![Victor-Santos-Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Santos-Silva&show_icons=true&theme=dracula)
 
-<img align="left" width="60%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Victor-Santos-Silva&show_icons=true&theme=dracula">
-</div>
 
-<!-- Linguagens de programaca -->
-### Tecnologias que uso:
+### Tecnologias que uso no meu dia a dia
+
 
 <div style= "display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -29,4 +23,28 @@ Sou Desenvolvedor de Software Junior Full Stack.
 </div>
 <br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Santos-Silva&layout=compact&theme=dracula)
 
+
+
+
+
+
+
+
+<!-- ## Hi there 👋 -->
+
+<!--
+**Victor-Santos-Silva/Victor-Santos-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
