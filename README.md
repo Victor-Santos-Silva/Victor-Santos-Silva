@@ -7,7 +7,7 @@
 
 ![Victor-Santos-Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Santos-Silva&show_icons=true&theme=highcontrast)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Santos-Silva&layout=compact)
 
 ### Tecnologias que uso no meu dia a dia
 
