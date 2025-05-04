@@ -2,8 +2,8 @@
 
 - 💻 Desenvolvimento de Sistemas - Técnico
 - 💻 Ciências da Computação - Unicsul
-- ❣️ Desenvolvedor Back-end.
-- ☕ Java | JavaScript | Node.js | React.Js | MySQL
+- ❣️ Desenvolvedor Full-Stack.
+- ☕ JavaScript | Node.js | React.Js | MySQL
 <hr>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Victor-Santos-Silva)
