@@ -1,6 +1,6 @@
 ## Olá!! Eu sou Victor dos Santos !! 👋
 
-- 💻 Desenvolvimento de Sistemas - Técnico
+- 💻 Desenvolvimento de Sistemas - Senai
 - 💻 Ciências da Computação - Unicsul
 - ❣️ Desenvolvedor Full-Stack.
 - ☕ JavaScript | Node.js | React.Js | MySQL
