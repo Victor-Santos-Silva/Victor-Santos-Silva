@@ -3,7 +3,7 @@
 - 💻 Desenvolvimento de Sistemas - Senai
 - 💻 Ciências da Computação - Unicsul
 - ❣️ Desenvolvedor Full-Stack.
-- ☕ JavaScript | Node.js | React.Js | MySQL
+- ☕ JavaScript | TypeScript | Node.js | React.Js | Next.Js | Express.Js | Nest.Js | Postgress | MySQL
 <hr>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Victor-Santos-Silva)
