@@ -1,16 +1,16 @@
-## 👋 Olá! Eu sou Victor dos Santos
+## 👋 Hi! I'm Victor dos Santos
 
-💻 Desenvolvedor Back-End Node.Js
+💻 Back-End Developer
 
-🎓 Técnico em Desenvolvimento de Sistemas – SENAI
+🎓 Systems Development Technician – SENAI  
 
-🎓 Graduando em Ciência da Computação – Unicsul
+🎓 Bachelor's Degree Student in Computer Science – Unicsul  
 
-Especializado na construção de APIs REST, organização de arquitetura em camadas e boas práticas de desenvolvimento no ecossistema Node.js.
+Specialized in building RESTful APIs, organizing layered architecture, and applying best development practices within the Node.js ecosystem.
 
 ---
 
-### 🚀 Stack Principal
+### 🚀 Main Stack
 
 TypeScript | Node.js | Express.js | NestJS | PostgreSQL | Docker | Azure
 
