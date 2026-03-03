@@ -21,7 +21,7 @@ TypeScript | Node.js | Express.js | NestJS | PostgreSQL | Docker | Azure
 
 ---
 
-### 🛠️ Tecnologias
+### 🛠️ Technologies
 
 <div style="display: inline_block">
 
