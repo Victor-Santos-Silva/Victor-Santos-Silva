@@ -11,8 +11,8 @@ Especializado na construção de APIs REST, organização de arquitetura em cama
 ### 🚀 Stack Principal
 
 TypeScript | Node.js | Express.js | NestJS
-PostgreSQL
-Docker
+PostgreSQL |
+Docker |
 Azure
 
 ---
