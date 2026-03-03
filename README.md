@@ -1,30 +1,43 @@
-## Olá!! Eu sou Victor dos Santos !! 👋
+## 👋 Olá! Eu sou Victor dos Santos
 
-- 💻 Técnico em Desenvolvimento de Sistemas - Senai
-- 💻 Graduado em Ciências da Computação - Unicsul
-- ❣️ Desenvolvedor Back-End.
-- ☕ TypeScript | Node.js | Express.Js | Nest.JS | PostgreSQL | Azure | Docker
-<hr>
+💻 Desenvolvedor Back-End
+🎓 Técnico em Desenvolvimento de Sistemas – SENAI
+🎓 Graduando em Ciência da Computação – Unicsul
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Victor-Santos-Silva)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-dos-santos-da-silva/)
-<hr>
-<br>
+Especializado na construção de APIs REST, organização de arquitetura em camadas e boas práticas de desenvolvimento no ecossistema Node.js.
 
-![Victor-Santos-Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Santos-Silva&show_icons=true&theme=dracula)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Santos-Silva&layout=compact&theme=dracula)
-<br>
-<hr>
+### 🚀 Stack Principal
 
-### Tecnologias que trabalhei:
+☕ TypeScript | Node.js | Express.js | NestJS
+🐘 PostgreSQL
+🐳 Docker
+☁️ Azure
 
-<div style= "display: inline_block">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+---
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Victor-Santos-Silva)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/victor-dos-santos-da-silva/)
+
+---
+
+![Victor-Santos-Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Santos-Silva\&show_icons=true\&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Santos-Silva\&layout=compact\&theme=dracula)
+
+---
+
+### 🛠️ Tecnologias
+
+<div style="display: inline_block">
+
+<img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+<img align="center" alt="express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+<img align="center" alt="nestjs" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+<img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+<img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img align="center" alt="azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
 
 </div>
-<br>
