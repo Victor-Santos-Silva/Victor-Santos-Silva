@@ -1,7 +1,9 @@
 ## 👋 Olá! Eu sou Victor dos Santos
 
-💻 Desenvolvedor Back-End
+💻 Desenvolvedor Back-End Node.Js
+
 🎓 Técnico em Desenvolvimento de Sistemas – SENAI
+
 🎓 Graduando em Ciência da Computação – Unicsul
 
 Especializado na construção de APIs REST, organização de arquitetura em camadas e boas práticas de desenvolvimento no ecossistema Node.js.
@@ -10,21 +12,12 @@ Especializado na construção de APIs REST, organização de arquitetura em cama
 
 ### 🚀 Stack Principal
 
-TypeScript | Node.js | Express.js | NestJS
-PostgreSQL |
-Docker |
-Azure
+TypeScript | Node.js | Express.js | NestJS | PostgreSQL | Docker | Azure
 
 ---
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Victor-Santos-Silva)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/victor-dos-santos-da-silva/)
-
----
-
-![Victor-Santos-Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Santos-Silva\&show_icons=true\&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Santos-Silva\&layout=compact\&theme=dracula)
 
 ---
 
